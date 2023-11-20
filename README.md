@@ -1,0 +1,3 @@
+# kotlin-boot-start
+简单学习了Gradle然后就使用Kotilin简单写了个task
+顺便用了java和kotlin插件开发了两个接口,可以混编,以后会不会混编就不知道了...
